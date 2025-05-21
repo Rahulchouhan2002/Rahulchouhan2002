@@ -1,0 +1,6 @@
+class launch
+{
+       public static void main(string[] args)
+       {
+               system.out.println("Exploring Git & GithHub!");
+}
